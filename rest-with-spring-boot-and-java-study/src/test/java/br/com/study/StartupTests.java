@@ -1,10 +1,10 @@
-package com.Estudo.estudo;
+package br.com.study;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EstudoApplicationTests {
+class StartupTests {
 
 	@Test
 	void contextLoads() {

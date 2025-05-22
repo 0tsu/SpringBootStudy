@@ -1,13 +1,13 @@
-package com.Estudo.estudo;
+package br.com.study;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class EstudoApplication {
+public class Startup {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EstudoApplication.class, args);
+		SpringApplication.run(Startup.class, args);
 	}
 
 }
